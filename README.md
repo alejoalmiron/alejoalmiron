@@ -187,9 +187,6 @@ Durante mi formación en **Coderhouse** obtuve:
 🔗 LinkedIn  
 https://www.linkedin.com/in/alejo-daniel-almirón  
 
-💻 GitHub  
-https://github.com/fkz14
-
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer)
