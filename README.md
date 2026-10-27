@@ -1,192 +1,148 @@
 <!-- 🌌 PORTADA -->
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=👋%20Hola%2C%20soy%20Alejo!&fontSize=38&fontColor=ffffff&animation=fadeIn)
 
+<p align="center">
+  <b>Desarrollador Full Stack Junior · React · Node.js · Java</b><br>
+  📍 Buenos Aires, Argentina · 🟢 Disponible para trabajar (remoto, híbrido o presencial)
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejo-daniel-almiron"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:almiron.alejo.ste@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
 ---
 
-# 🚀 Desarrollador Web Full Stack
+## 👨‍💻 Sobre mí
 
-Desarrollador enfocado en la creación de **aplicaciones web modernas y escalables**, con experiencia en **frontend y backend**.
+Desarrollador Full Stack con **6 meses de experiencia en producción** y estudiante de **Licenciatura en Sistemas (UNLa)**.
+Trabajo con **React** en el frontend y **Node.js + Express** en el backend, y también con **Java (Spring Boot)** y **Python**.
+Desarrollé APIs REST con autenticación JWT, testing y documentación, y participé en un sistema de **microservicios** con gRPC, GraphQL y RabbitMQ.
 
-Trabajo principalmente con **React en frontend** y **Node.js + Express en backend**, desarrollando **APIs REST, sistemas de autenticación y arquitecturas backend modulares**.
-
-Me enfoco en escribir **código limpio, mantenible y escalable**, aplicando buenas prácticas de desarrollo, optimización y trabajo colaborativo.
+Además, hace más de 5 años hago **soporte técnico** (hardware, sistemas operativos y redes), así que me siento cómodo tanto escribiendo código como resolviendo problemas de infraestructura.
 
 ---
 
-# 🧠 Stack Tecnológico
+## 🧠 Stack tecnológico
 
-### 💻 Frontend
+**Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 
-### ⚙️ Backend
+**Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### 🗄️ Bases de Datos
+**Bases de datos**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠️ Herramientas
+**Testing, DevOps y herramientas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Otros lenguajes:** C · C++
 
 ---
 
-# 💼 Experiencia Profesional
+## 💼 Experiencia
 
-### 🧩 Desarrollador Frontend Jr  
-**MindDev Perú · Jornada completa**  
-📅 jul. 2025 – dic. 2025 (6 meses)  
-🌎 Lima, Perú · Remoto
+### 🧩 Desarrollador Frontend Jr — MindDev Perú
+📅 Jul. 2025 – Dic. 2025 · 🌎 Remoto · Jornada completa
 
-- Desarrollo e implementación de **interfaces web modernas y responsivas**.
-- Colaboración con el equipo **UX/UI** para transformar prototipos en componentes funcionales.
-- Aplicación de **buenas prácticas de código, optimización y semántica** en HTML, CSS y JavaScript.
-- Integración de **APIs y consumo de servicios desde el frontend**.
-- Participación en **revisiones de código, mantenimiento y mejora continua de proyectos**.
-- Uso de **React y Tailwind** siguiendo estándares del equipo.
-- Participación activa en **reuniones técnicas, revisiones de avance y capacitaciones internas**.
+- Desarrollo de interfaces web responsive con **React y Tailwind CSS**.
+- Integración y consumo de **APIs REST** desde el frontend.
+- Trabajo con el equipo **UX/UI** para convertir prototipos en componentes funcionales.
+- Corrección de bugs, mantenimiento y mejora continua de código en producción.
+- Participación en revisiones de código, reuniones técnicas y capacitaciones internas.
 
 ---
 
-# 🧩 Proyectos Destacados
+## 🧩 Proyectos destacados
 
-## 🐶 AdoptMe Backend API
+### 🚗 Rentar — Plataforma de alquiler de vehículos (microservicios)
+Proyecto grupal de la **Universidad Nacional de Lanús** (Desarrollo de Software en Sistemas Distribuidos).
 
-Backend para una **plataforma de adopción de mascotas** con arquitectura modular.
+- Frontend en **React + Vite** conectado a un **API Gateway en Node.js** que expone **REST y GraphQL**.
+- Tres servicios en **Python** comunicados por **gRPC**, cada uno con su propia base **MySQL**.
+- Broker de eventos con **RabbitMQ** (exchange, colas, dead-letter y contratos de eventos) — **mi aporte principal**.
+- Login con roles (admin / cliente) con **JWT y bcrypt**. Todo el sistema se levanta con **Docker Compose**.
 
-**Características**
+`React` `Node.js` `GraphQL` `gRPC` `Python` `MySQL` `RabbitMQ` `Docker`
+🔗 [github.com/alejoalmiron/rentar-platform](https://github.com/alejoalmiron/rentar-platform)
 
-- API REST para usuarios, mascotas y adopciones  
-- Autenticación con JWT  
-- Encriptación con Bcrypt  
-- Documentación Swagger / OpenAPI  
-- Tests automatizados con Jest + Supertest  
-- Contenerización con Docker  
+### 🐶 AdoptMe — API REST
+Backend para una plataforma de adopción de mascotas con arquitectura en capas.
 
-**Tecnologías**
+- API REST para usuarios, mascotas y adopciones, con **autenticación JWT** y contraseñas cifradas con **bcrypt**.
+- Documentación con **Swagger / OpenAPI** y tests de integración con **Jest + Supertest**.
+- Imagen publicada en **Docker Hub**.
 
-Node.js • Express • MongoDB • JWT • Bcrypt • Docker • Jest • Swagger  
+`Node.js` `Express` `MongoDB` `JWT` `Jest` `Swagger` `Docker`
+🔗 [github.com/alejoalmiron/Backend-Adoptme](https://github.com/alejoalmiron/Backend-Adoptme) · 🐳 [Docker Hub](https://hub.docker.com/r/alejo14alm/adoptme-backend)
 
-Repositorio  
-[https://github.com/fkz14/adoptme-backend](https://github.com/fkz14/Backend-Adoptme)
+### 🛒 ShopCore — Backend de e-commerce
+Backend con autenticación, roles, carritos y compras.
 
----
+- Roles **admin / user**, CRUD de productos, gestión de carritos y validación de stock.
+- Generación automática de tickets de compra.
+- Arquitectura con patrones **DAO, Repository y DTO**.
 
-## 🛒 ShopCore Backend
+`Node.js` `Express` `MongoDB` `Passport` `JWT`
+🔗 [github.com/alejoalmiron/ShopCore-Backend](https://github.com/alejoalmiron/ShopCore-Backend)
 
-Backend completo de **e-commerce con autenticación, carritos y sistema de compras**.
+### 🛍️ SoftTech — E-commerce en React
+Tienda online con catálogo dinámico, filtros por categoría, carrito persistente y checkout con generación de orden.
 
-**Características**
+`React` `Chakra UI` `Firebase` `React Router` `Context API`
+🔗 [github.com/alejoalmiron/SoftTech-E-Commerce](https://github.com/alejoalmiron/SoftTech-E-Commerce) · 🌐 [Ver demo online](https://softtech-e-commerce.netlify.app/)
 
-- Autenticación JWT  
-- Roles de usuario (admin / user)  
-- CRUD de productos  
-- Gestión de carritos  
-- Validación de stock  
-- Generación automática de tickets  
+### 🚀 NexaTech — API de productos y carritos
+Servidor con CRUD de productos, paginación, filtros y actualización en tiempo real con **Socket.io**.
 
-**Arquitectura**
-
-DAO Pattern • Repository Pattern • DTO Pattern  
-
-**Tecnologías**
-
-Node.js • Express • MongoDB • Passport • JWT • Bcrypt  
-
-Repositorio  
-[https://github.com/fkz14/coderHouse-backend2](https://github.com/fkz14/ShopCore-Backend)
+`Node.js` `Express` `MongoDB` `Handlebars` `Socket.io`
+🔗 [github.com/alejoalmiron/NexaTech-Ecommerce](https://github.com/alejoalmiron/NexaTech-Ecommerce)
 
 ---
 
-## 🛍️ SoftTech E-commerce
+## 🏆 Reconocimientos
 
-Aplicación de **e-commerce desarrollada con React y Firebase**, enfocada en la experiencia de usuario y gestión dinámica de productos.
+Durante la carrera de Desarrollo Web Full Stack en **Coderhouse**:
 
-**Características**
-
-- Catálogo dinámico de productos  
-- Filtrado por categorías  
-- Carrito de compras persistente  
-- Checkout con generación de orden  
-- Navegación SPA con React Router  
-
-**Tecnologías**
-
-React • Chakra UI • Firebase • React Router • Context API  
-
-Repositorio  
-[https://github.com/fkz14/SoftTech-E-Commerce](https://github.com/fkz14/SoftTech-E-Commerce)
+🥇 **Top 1 – React JS** · 🥇 **Top 1 – Programación Backend I** · 🥇 **Top 1 – Backend II (Diseño)**
 
 ---
 
-## 🚀 NexaTech E-commerce API
+## 🎓 Formación
 
-Servidor backend para **gestión de productos y carritos de compra**.
+**Universidad Nacional de Lanús** — Licenciatura en Sistemas *(2023 – Presente)*
+Título intermedio Analista Programador Universitario: **71% aprobado** · Promedio 7,61
+Destacadas con 10: Algoritmos y Estructuras de Datos · Programación Concurrente · Bases de Datos I · Introducción a Sistemas Operativos
 
-**Características**
+**Coderhouse** — Carrera de Desarrollo Web Full Stack *(finalizada)*
 
-- CRUD completo de productos  
-- Gestión de carritos  
-- Paginación y filtros  
-- Vistas dinámicas con Handlebars  
-- Actualización en tiempo real con Socket.io  
-
-**Tecnologías**
-
-Node.js • Express • MongoDB • Handlebars • Socket.io  
-
-Repositorio  
-[https://github.com/fkz14/NexaTech-Ecommerce](https://github.com/fkz14/NexaTech-Ecommerce)
+**Idiomas:** Español nativo · Inglés intermedio (B1)
 
 ---
 
-# 🏆 Reconocimientos
+## 📞 Contacto
 
-Durante mi formación en **Coderhouse** obtuve:
-
-🥇 **Top 1 – React JS**  
-🥇 **Top 1 – Programación Backend I**  
-🥇 **Top 1 – Backend II Diseño**
-
----
-
-# 🎓 Formación
-
-### Universidad Nacional de Lanús  
-**Licenciatura en Sistemas** *(2023 – Presente)*
-
-- Programación  
-- Bases de datos  
-- Análisis de sistemas  
-
-### Coderhouse  
-**Carrera Desarrollo Web Full Stack – Finalizada**
-
-- React  
-- Node.js  
-- Express  
-- MongoDB  
-- APIs REST  
-- Autenticación JWT  
-- Testing y arquitectura backend  
-
----
-
-# 📞 Contacto
-
-📧 **almiron.alejo.ste@gmail.com**  
-📞 **+54 11 5160-9715**
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/alejo-daniel-almirón  
-
----
+📧 almiron.alejo.ste@gmail.com · 📱 +54 9 11 5160-9715 · 🔗 [LinkedIn](https://www.linkedin.com/in/alejo-daniel-almiron)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer)
