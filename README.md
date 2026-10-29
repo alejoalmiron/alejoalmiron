@@ -137,6 +137,15 @@ Destacadas con 10: Algoritmos y Estructuras de Datos · Programación Concurrent
 
 **Coderhouse** — Carrera de Desarrollo Web Full Stack *(finalizada)*
 
+| Curso | Proyecto final | Tecnologías |
+|---|---|---|
+| Desarrollo Web | [SoftHard](https://github.com/alejoalmiron/SoftHard) · [demo](https://fastidious-belekoy-d15545.netlify.app) | HTML5, CSS3, Sass, Bootstrap |
+| JavaScript | [SoftHard-Auth](https://github.com/alejoalmiron/SoftHard-Auth) · [demo](https://alejoalmiron.github.io/SoftHard-Auth/) | JavaScript, LocalStorage, SweetAlert2 |
+| React JS 🥇 | [SoftTech-E-Commerce](https://github.com/alejoalmiron/SoftTech-E-Commerce) · [demo](https://softtech-e-commerce.netlify.app/) | React, Firebase, Chakra UI |
+| Programación Backend I 🥇 | [NexaTech-Ecommerce](https://github.com/alejoalmiron/NexaTech-Ecommerce) | Node.js, Express, MongoDB, Socket.io |
+| Programación Backend II 🥇 | [ShopCore-Backend](https://github.com/alejoalmiron/ShopCore-Backend) | Passport, JWT, DAO/Repository/DTO |
+| Programación Backend III | [Backend-Adoptme](https://github.com/alejoalmiron/Backend-Adoptme) | Jest, Swagger, Docker |
+
 **Idiomas:** Español nativo · Inglés intermedio (B1)
 
 ---
